@@ -1,11 +1,9 @@
 # Chart and table from mocky api
 
-Different data are used for the chart and table
-### API for chart data - https://run.mocky.io/v3/c64d746d-89c8-4619-826e-5dc53313c609
-### API for table data - https://run.mocky.io/v3/97b4a742-f660-45ca-ad16-227b1e10e520
+### API link - https://run.mocky.io/v3/97b4a742-f660-45ca-ad16-227b1e10e520
 
 
-![1](https://user-images.githubusercontent.com/56402450/132013484-de6a254a-417f-49d3-baed-8d53c9861911.png)
+![1](https://user-images.githubusercontent.com/56402450/132045890-9a1f4a33-8e19-4625-ba24-244c39bd087c.png)
 
 
 ![2](https://user-images.githubusercontent.com/56402450/132013492-8cd65f5c-7abb-43ce-a9c6-fea274bf03a9.png)
