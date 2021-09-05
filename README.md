@@ -1,12 +1,12 @@
 # Chart and table from mocky api
 
-### API link - https://run.mocky.io/v3/97b4a742-f660-45ca-ad16-227b1e10e520
+### API link - https://run.mocky.io/v3/b3e52657-a200-4f98-a6d1-daa5cac07c37
 
 
-![1](https://user-images.githubusercontent.com/56402450/132045890-9a1f4a33-8e19-4625-ba24-244c39bd087c.png)
+![1](https://user-images.githubusercontent.com/56402450/132122406-4098a47b-c9c8-4d3d-af2c-87f55ddbd440.png)
 
 
-![2](https://user-images.githubusercontent.com/56402450/132013492-8cd65f5c-7abb-43ce-a9c6-fea274bf03a9.png)
+![2](https://user-images.githubusercontent.com/56402450/132122410-86beeca6-9bca-4122-80b2-d1f4e530e7b2.png)
 
 
 Install -
