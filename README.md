@@ -11,9 +11,12 @@
 
 Install -
 
-`ng add @angular/material`  
-`npm i @angular/flex-layout --save`  
-`npm i chart.js@2.7.3 --save`  
+`ng add @angular/material`
+
+`npm i @angular/flex-layout --save`
+
+`npm i chart.js@2.7.3 --save`
+
 `npm i ng2-charts@2.2.3 --save`
 
 ## Sample15
